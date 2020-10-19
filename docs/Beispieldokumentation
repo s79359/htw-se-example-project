@@ -1,9 +1,0 @@
-= Beispiel-Dokumentation mit AsciiDoc 
-Alexander Härting <s79359@htw-dresden.de>
-1.0, 12.10.2020
-:toc: 
-:toc-title: Inhaltsverzeichnis
-// Platzhalter für weitere Dokumenten-Attribute. Dies ist ein Test
-
-== Einführung
-Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und praktische Üben der Syntax von AsciiDoc.
